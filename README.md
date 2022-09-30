@@ -1,6 +1,8 @@
 # PR-technical
 PR technical
 
+Commits are in the master.
+
 Stage 4.4.1 of the Technical Challenge
 
 Function to print a diamond in python
