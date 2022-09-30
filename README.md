@@ -3,6 +3,8 @@ PR technical
 
 Commits are in the master.
 
+![image](https://user-images.githubusercontent.com/67447456/193339395-62e25157-74a4-4a2b-bade-210f36e85c47.png)
+
 Stage 4.4.1 of the Technical Challenge
 
 Function to print a diamond in python
